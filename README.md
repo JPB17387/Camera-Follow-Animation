@@ -6,14 +6,14 @@
 
 Check out the dynamic rendering of code execution in action!
 
-*(Note: Replace `Example_Video.mp4` with the actual filename of your example video. The video must be tracked locally or on Git to display properly).*
+## Example Outputs:
 
 <p align="center">
-  <video src="Example%20Output%20Videos/Example1.mp4" width="700" controls="controls" autoplay loop muted playsinline></video>
+  <video src="https://github.com/JPB17387/Camera-Follow-Animation/raw/main/Example%20Output%20Videos/Example1.mp4" width="700" controls autoplay loop muted playsinline></video>
 </p>
 
 <p align="center">
-  <video src="Example%20Output%20Videos/Example2.mp4" width="700" controls="controls" autoplay loop muted playsinline></video>
+  <video src="https://github.com/JPB17387/Camera-Follow-Animation/raw/main/Example%20Output%20Videos/Example2.mp4" width="700" controls autoplay loop muted playsinline></video>
 </p>
 
 ---
