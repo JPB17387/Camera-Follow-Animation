@@ -8,12 +8,14 @@ Check out the dynamic rendering of code execution in action!
 
 ## Example Outputs:
 
+### Example Video 1:
 <p align="center">
-  <video src="https://github.com/JPB17387/Camera-Follow-Animation/raw/main/Example%20Output%20Videos/Example1.mp4" width="700" controls autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/2ab85839-e1c5-4fef-8ff9-f6892d87f6fe" width="700" controls autoplay loop muted playsinline></video>
 </p>
 
+### Example Video 2:
 <p align="center">
-  <video src="https://github.com/JPB17387/Camera-Follow-Animation/raw/main/Example%20Output%20Videos/Example2.mp4" width="700" controls autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/646f0f8d-b251-4957-9f0e-795e3695f521" width="700" controls autoplay loop muted playsinline></video>
 </p>
 
 ---
